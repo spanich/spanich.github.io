@@ -169,10 +169,13 @@ h2{
     outline:none;
 }
 .gallery{
-    margin:20px auto;
-    width:900px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-left: 15%;
+    width: 900px;
     height:640px;
     position: relative;
+
 }
 
 .gallery_body a{
