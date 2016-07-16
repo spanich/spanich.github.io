@@ -170,8 +170,8 @@ h2{
 }
 .gallery{
     margin: 0 auto;
-    margin-top: 20px;
-    margin-left: 15%;
+    /*margin-top: 20px;
+    margin-left: 15%;*/
     width: 900px;
     height:640px;
     position: relative;
